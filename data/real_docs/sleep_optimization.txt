@@ -1,0 +1,55 @@
+# Sleep Optimization for Athletic Performance
+
+Sleep is a critical but often overlooked component of athletic performance and recovery. Quality sleep enhances recovery, cognitive function, and physical performance while reducing injury risk.
+
+## Sleep Architecture and Athletic Performance
+
+A typical sleep cycle consists of four stages:
+1. **N1 (Light Sleep)**: Transition from wakefulness to sleep
+2. **N2 (Deeper Sleep)**: Body temperature drops, heart rate slows
+3. **N3 (Deep Sleep)**: Physically restorative; growth hormone release, tissue repair
+4. **REM Sleep**: Mentally restorative; memory consolidation, learning, neural recovery
+
+Athletes typically require 7-9 hours of sleep, with some elite athletes reporting benefits from 9-10 hours during intense training periods.
+
+## Key Sleep Metrics for Athletes
+
+- **Total Sleep Time**: Duration of actual sleep
+- **Sleep Efficiency**: Percentage of time in bed spent sleeping
+- **Sleep Latency**: Time taken to fall asleep
+- **Sleep Stages**: Distribution of time in different sleep stages
+- **Disturbances**: Number of awakenings or disruptions
+- **Consistency**: Regularity of sleep-wake schedule
+
+## Impact of Sleep on Performance
+
+### Physical Performance
+- **Strength and Power**: 30% decrease in max leg press after sleep restriction
+- **Speed**: 5-10% reduction in sprint performance with inadequate sleep
+- **Endurance**: 10-20% decrease in time to exhaustion after sleep deprivation
+- **Recovery**: Decreased glycogen replenishment and muscle protein synthesis
+
+### Cognitive Performance
+- **Reaction Time**: Up to 300% slower reaction times with sleep deprivation
+- **Decision Making**: Reduced accuracy in split-second decisions
+- **Motor Learning**: 20-30% decrease in skill acquisition and refinement
+- **Perceived Exertion**: Higher RPE for the same workload
+
+## Sleep Optimization Strategies
+
+### Environmental Optimization
+- **Temperature**: 60-67°F (15.5-19.5°C) is optimal for most people
+- **Light**: Complete darkness or use of blackout curtains
+- **Noise**: White noise or earplugs to minimize disruptions
+- **Bedding**: Supportive mattress and pillows for proper alignment
+
+### Behavioral Approaches
+- **Consistent Schedule**: Same bed/wake times (±30 minutes)
+- **Pre-Sleep Routine**: Calming activities 30-60 minutes before bed
+- **Screen Management**: Blue light blocking 2+ hours before sleep
+- **Caffeine Timing**: No caffeine 8-10 hours before bedtime
+
+### Travel and Competition Considerations
+- **Jet Lag Management**: 1 day per time zone for full adaptation
+- **Pre-Competition**: Prioritize sleep 2-3 nights before events
+- **Sleep Banking**: Extending sleep time before known periods of restriction

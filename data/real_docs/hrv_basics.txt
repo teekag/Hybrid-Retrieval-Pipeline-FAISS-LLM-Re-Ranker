@@ -1,0 +1,30 @@
+# Heart Rate Variability (HRV) Fundamentals
+
+Heart Rate Variability (HRV) is the physiological phenomenon of variation in the time interval between consecutive heartbeats. It is measured by the variation in the beat-to-beat interval.
+
+## What HRV Measures
+
+HRV is an indicator of the body's autonomic nervous system (ANS) function, which regulates involuntary physiological processes including heart rate, blood pressure, respiration, and digestion. The ANS is divided into two branches:
+
+1. **Sympathetic Nervous System** ("fight or flight"): Increases heart rate, dilates pupils, and diverts blood flow from non-essential systems to muscles.
+
+2. **Parasympathetic Nervous System** ("rest and digest"): Slows heart rate, constricts pupils, and activates digestive processes.
+
+HRV reflects the balance between these two systems. Higher HRV generally indicates a healthy heart and good autonomic nervous system function, while lower HRV is associated with increased stress, poor recovery, and potential health issues.
+
+## Common HRV Metrics
+
+- **RMSSD (Root Mean Square of Successive Differences)**: Measures short-term variability, reflecting parasympathetic activity.
+- **SDNN (Standard Deviation of NN intervals)**: Represents overall variability.
+- **pNN50**: Percentage of adjacent NN intervals that differ by more than 50ms.
+- **LF/HF Ratio**: Ratio of low-frequency to high-frequency power, representing sympathovagal balance.
+
+## Factors Affecting HRV
+
+- **Age**: HRV typically decreases with age.
+- **Physical Fitness**: Better cardiovascular fitness is associated with higher HRV.
+- **Stress**: Psychological and physical stress reduce HRV.
+- **Sleep Quality**: Poor sleep decreases HRV.
+- **Hydration**: Dehydration can lower HRV.
+- **Alcohol Consumption**: Alcohol typically reduces HRV.
+- **Training Load**: Excessive training without adequate recovery decreases HRV.

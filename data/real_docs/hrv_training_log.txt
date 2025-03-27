@@ -1,0 +1,119 @@
+# 8-Week HRV Training Log: Elite Endurance Athlete
+
+## Athlete Profile
+- 28-year-old male distance runner
+- Training for marathon competition
+- 5+ years of consistent training
+- Baseline HRV (RMSSD): 85ms ± 8ms
+- Resting HR: 42bpm
+
+## Week 1: Base Building Phase
+| Day | HRV (ms) | RHR (bpm) | Training | Sleep (hrs) | Notes |
+|-----|----------|-----------|----------|-------------|-------|
+| Mon | 87 | 41 | Easy run 10km | 8.2 | Good recovery from weekend |
+| Tue | 83 | 43 | Threshold 8x800m | 7.8 | Felt strong during intervals |
+| Wed | 79 | 45 | Recovery run 6km | 7.5 | Slight fatigue in quads |
+| Thu | 84 | 42 | Hill repeats 10x200m | 8.0 | Good session, recovered well |
+| Fri | 86 | 41 | Easy run 8km | 8.3 | Feeling fresh |
+| Sat | 88 | 40 | Long run 25km | 7.9 | Strong throughout, good pacing |
+| Sun | 81 | 44 | Rest day | 8.5 | Minor calf tightness |
+
+Weekly Summary: Consistent HRV values within normal range. Training load well-tolerated with good recovery between sessions.
+
+## Week 2: Volume Increase
+| Day | HRV (ms) | RHR (bpm) | Training | Sleep (hrs) | Notes |
+|-----|----------|-----------|----------|-------------|-------|
+| Mon | 80 | 45 | Easy run 8km | 7.6 | Residual fatigue from long run |
+| Tue | 83 | 43 | Tempo 5km + 3km | 7.9 | Solid session, good pacing |
+| Wed | 78 | 46 | Recovery run 8km | 7.4 | Feeling the cumulative load |
+| Thu | 76 | 47 | VO2max 6x1000m | 7.2 | Struggled on last 2 intervals |
+| Fri | 74 | 48 | Easy run 6km | 7.0 | Fatigue increasing |
+| Sat | 79 | 45 | Long run 28km | 8.1 | Difficult after 22km |
+| Sun | 75 | 47 | Rest day | 8.4 | General fatigue |
+
+Weekly Summary: Declining HRV trend with increased RHR. Volume increase creating more fatigue than anticipated. Sleep quality decreased mid-week.
+
+## Week 3: Recovery Week
+| Day | HRV (ms) | RHR (bpm) | Training | Sleep (hrs) | Notes |
+|-----|----------|-----------|----------|-------------|-------|
+| Mon | 72 | 49 | Rest day | 8.3 | Decided on extra recovery |
+| Tue | 75 | 47 | Easy run 6km | 8.5 | Very easy pace |
+| Wed | 79 | 45 | Light fartlek 20min | 8.2 | Feeling better |
+| Thu | 82 | 44 | Easy run 8km | 8.0 | Energy returning |
+| Fri | 85 | 42 | Technique drills | 8.4 | Moving well |
+| Sat | 88 | 41 | Moderate run 15km | 8.3 | Strong and controlled |
+| Sun | 87 | 41 | Easy run 10km | 8.5 | Fully recovered |
+
+Weekly Summary: Planned recovery week with reduced volume and intensity. HRV responded well, returning to baseline by end of week. Sleep prioritized with good results.
+
+## Week 4: Intensity Block
+| Day | HRV (ms) | RHR (bpm) | Training | Sleep (hrs) | Notes |
+|-----|----------|-----------|----------|-------------|-------|
+| Mon | 86 | 42 | Easy run 10km | 8.0 | Ready for intensity block |
+| Tue | 83 | 43 | VO2max 5x1200m | 7.8 | Strong session, good recovery |
+| Wed | 78 | 45 | Recovery run 6km | 7.7 | Expected fatigue |
+| Thu | 76 | 46 | Threshold 2x3km | 7.5 | Solid effort, slightly heavy legs |
+| Fri | 80 | 44 | Easy run 8km | 8.2 | Better than expected recovery |
+| Sat | 77 | 46 | Race simulation 10km | 7.4 | Hard effort, good execution |
+| Sun | 72 | 48 | Recovery walk | 8.6 | Very fatigued |
+
+Weekly Summary: HRV fluctuations reflect increased intensity. Overall trend downward but within expected range for intensity block. Sleep slightly compromised on hard training days.
+
+## Week 5: High Volume Block
+| Day | HRV (ms) | RHR (bpm) | Training | Sleep (hrs) | Notes |
+|-----|----------|-----------|----------|-------------|-------|
+| Mon | 74 | 47 | Easy run 10km | 8.0 | Still recovering from race simulation |
+| Tue | 78 | 45 | Moderate run 15km | 7.8 | Feeling stronger |
+| Wed | 75 | 46 | Easy run 12km | 7.2 | Accumulated fatigue |
+| Thu | 71 | 49 | Moderate run 15km | 6.8 | Poor sleep, feeling stressed |
+| Fri | 68 | 51 | Easy run 8km | 7.0 | HRV significantly below baseline |
+| Sat | 65 | 53 | Modified long run 20km | 7.5 | Reduced from planned 30km due to HRV |
+| Sun | 63 | 54 | Rest day | 8.7 | Complete rest, focusing on recovery |
+
+Weekly Summary: Significant HRV suppression with corresponding RHR increase. Training volume reduced in response to HRV trends. Potential non-functional overreaching developing.
+
+## Week 6: Intervention Week
+| Day | HRV (ms) | RHR (bpm) | Training | Sleep (hrs) | Notes |
+|-----|----------|-----------|----------|-------------|-------|
+| Mon | 64 | 53 | Rest day | 9.0 | Complete rest, focus on nutrition |
+| Tue | 67 | 51 | Active recovery walk | 8.8 | Light movement only |
+| Wed | 70 | 49 | Easy swim 30min | 8.5 | Cross-training for recovery |
+| Thu | 73 | 47 | Easy run 6km | 8.6 | Very light intensity |
+| Fri | 77 | 45 | Easy run 8km | 8.4 | Feeling more energetic |
+| Sat | 80 | 44 | Moderate run 12km | 8.2 | Controlled effort, feeling good |
+| Sun | 82 | 43 | Easy run 10km | 8.3 | Recovery trending positively |
+
+Weekly Summary: Intervention week with drastically reduced training load. HRV responding well to recovery focus. Sleep quality and duration prioritized with good results.
+
+## Week 7: Return to Training
+| Day | HRV (ms) | RHR (bpm) | Training | Sleep (hrs) | Notes |
+|-----|----------|-----------|----------|-------------|-------|
+| Mon | 84 | 42 | Easy run 10km | 8.0 | Feeling refreshed |
+| Tue | 86 | 41 | Threshold 2x2km | 7.9 | Controlled intensity, felt strong |
+| Wed | 83 | 43 | Recovery run 8km | 7.8 | Good recovery |
+| Thu | 85 | 42 | Fartlek 8x2min | 8.1 | Responsive and energetic |
+| Fri | 87 | 41 | Easy run 10km | 8.0 | Strong easy run |
+| Sat | 85 | 42 | Long run 25km | 7.7 | Solid performance throughout |
+| Sun | 82 | 43 | Recovery run 6km | 8.2 | Appropriate fatigue |
+
+Weekly Summary: HRV stabilized above baseline, indicating supercompensation effect. Training quality significantly improved after recovery period. RHR returned to normal range.
+
+## Week 8: Peak Week
+| Day | HRV (ms) | RHR (bpm) | Training | Sleep (hrs) | Notes |
+|-----|----------|-----------|----------|-------------|-------|
+| Mon | 83 | 43 | Easy run 10km | 8.1 | Good start to peak week |
+| Tue | 85 | 42 | VO2max 4x1200m | 8.0 | Strong intervals, full recovery between |
+| Wed | 81 | 44 | Recovery run 8km | 7.9 | Expected fatigue |
+| Thu | 84 | 42 | Tempo 2x3km | 8.2 | Excellent session, felt in control |
+| Fri | 86 | 41 | Easy run 6km | 8.3 | Tapering beginning |
+| Sat | 88 | 40 | Easy run 8km + strides | 8.5 | Feeling sharp |
+| Sun | 90 | 39 | Pre-race 5km | 8.7 | Primed for competition |
+
+Weekly Summary: Peak HRV values indicating optimal recovery and adaptation. Training quality exceptional with good response to intensity. Sleep prioritized during taper with excellent results.
+
+## Key Insights from 8-Week Log
+1. HRV consistently reflected training load and recovery status
+2. Early intervention during Week 5 prevented deeper overreaching
+3. Supercompensation effect visible after recovery week
+4. Sleep quality strongly correlated with HRV trends
+5. Athlete responded well to HRV-guided training adjustments

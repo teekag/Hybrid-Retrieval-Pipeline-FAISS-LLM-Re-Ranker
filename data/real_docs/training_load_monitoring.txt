@@ -1,0 +1,76 @@
+# Training Load Monitoring: Quantifying Exercise Stress
+
+Training load monitoring is the systematic tracking of exercise volume, intensity, and frequency to optimize performance, prevent overtraining, and reduce injury risk. Effective monitoring allows for data-driven training decisions.
+
+## Types of Training Load Metrics
+
+### External Load
+Measures of work performed independent of internal characteristics:
+- **Volume**: Distance, repetitions, sets, time
+- **Intensity**: Speed, power output, weight lifted
+- **Work**: Power × duration, force × distance
+- **GPS Metrics**: Accelerations, decelerations, changes of direction
+
+### Internal Load
+Measures of physiological and psychological response to exercise:
+- **Heart Rate**: Average, maximum, time in zones
+- **Rating of Perceived Exertion (RPE)**: Subjective effort rating
+- **Training Impulse (TRIMP)**: Heart rate × duration × intensity factor
+- **Session RPE**: RPE × session duration
+- **Blood Lactate**: Concentration of lactate in blood
+- **Oxygen Consumption**: VO₂ during exercise
+
+## Key Training Load Calculations
+
+### Acute Load
+Sum of training load over a short period (typically 7 days)
+
+### Chronic Load
+Average training load over an extended period (typically 28 days)
+
+### Acute:Chronic Workload Ratio (ACWR)
+Ratio between acute and chronic loads:
+- **<0.8**: Potential undertraining
+- **0.8-1.3**: "Sweet spot" for training adaptation
+- **>1.5**: Increased injury risk zone
+
+## Monitoring Strategies
+
+### Daily Monitoring
+- Morning resting heart rate and HRV
+- Wellness questionnaires (sleep, fatigue, soreness)
+- Bodyweight fluctuations
+
+### Session Monitoring
+- Session RPE collected 30 minutes post-exercise
+- Heart rate data during sessions
+- Performance metrics (power, speed, etc.)
+
+### Weekly Assessments
+- Submaximal performance tests
+- Range of motion and movement quality
+- Neuromuscular function tests (jump height, reaction time)
+
+## Technology in Training Load Monitoring
+
+- **Wearable Devices**: Heart rate monitors, GPS units, accelerometers
+- **Force Plates**: Ground reaction forces, jump metrics
+- **Velocity-Based Training Tools**: Bar speed in resistance training
+- **Mobile Applications**: RPE collection, wellness tracking
+- **Integrated Platforms**: Combining multiple data sources
+
+## Practical Applications
+
+### Individualization
+- Establish individual baselines and response patterns
+- Customize load parameters based on training age and recovery capacity
+
+### Periodization
+- Systematically manipulate load to create appropriate stress and recovery
+- Plan progressive overload while avoiding excessive fatigue accumulation
+
+### Red Flags
+- Sudden increases in ACWR (>30% week-to-week)
+- Chronic elevation in resting heart rate (>5 bpm above baseline)
+- Persistent decrease in HRV
+- Declining performance despite maintained or increased training load

@@ -1,0 +1,101 @@
+# Overtraining Syndrome: Recognition and Management
+
+Overtraining Syndrome (OTS) represents the extreme end of the training stress continuum, characterized by persistent performance decrements and physiological/psychological disturbances despite adequate recovery time. It results from an imbalance between training/non-training stress and recovery.
+
+## The Training Stress Continuum
+
+Training adaptation exists on a continuum:
+1. **Functional Overreaching (FOR)**: Short-term performance decrement with full recovery in days to weeks, often planned as part of periodization
+2. **Non-functional Overreaching (NFOR)**: More severe performance decrement requiring weeks to months for recovery
+3. **Overtraining Syndrome (OTS)**: Severe performance decrement with physiological and psychological symptoms requiring months for recovery
+
+## Diagnostic Criteria
+
+OTS is a diagnosis of exclusion. Key criteria include:
+- Performance decrements persisting despite adequate recovery (≥2 weeks)
+- Exclusion of underlying medical conditions
+- Presence of associated symptoms
+
+## Clinical Manifestations
+
+### Performance Indicators
+- Unexplained performance decrements
+- Decreased training capacity and tolerance
+- Increased perceived effort at submaximal intensities
+- Technical deterioration and coordination issues
+
+### Physiological Markers
+- Altered heart rate parameters (elevated RHR, reduced HRmax)
+- Disrupted HRV patterns (often reduced but can be paradoxically elevated)
+- Hormonal disturbances (reduced testosterone:cortisol ratio)
+- Altered substrate metabolism
+- Reduced maximal lactate production
+- Impaired glycogen replenishment
+
+### Psychological Symptoms
+- Persistent fatigue unrelieved by rest
+- Mood disturbances (depression, irritability, anxiety)
+- Reduced motivation and enthusiasm
+- Sleep disturbances despite fatigue
+- Increased perception of effort
+- Concentration difficulties
+
+### Immunological Changes
+- Increased susceptibility to infections
+- Prolonged recovery from illness
+- Reactivation of latent viral infections
+- Altered inflammatory markers
+
+## Risk Factors
+
+### Training-Related
+- Rapid increases in training load (volume, intensity, frequency)
+- Insufficient recovery between training sessions
+- Monotonous training without variation
+- Excessive competition schedule
+
+### Non-Training Stressors
+- Sleep disturbances or insufficient sleep
+- Psychological stress (work, relationships, financial)
+- Travel and environmental stressors
+- Inadequate nutrition (especially low energy availability)
+
+## Prevention Strategies
+
+### Training Management
+- Structured periodization with planned recovery
+- Gradual progression of training load
+- Training variety to prevent monotony
+- Regular performance testing with adjustment based on results
+
+### Recovery Optimization
+- Sufficient sleep quantity and quality
+- Strategic nutrition for recovery
+- Stress management techniques
+- Active recovery protocols
+
+### Monitoring Systems
+- Regular tracking of subjective wellness
+- HRV monitoring for autonomic nervous system status
+- Performance testing (submaximal preferred)
+- Training load quantification
+
+## Management Approach
+
+### Immediate Interventions
+- Significant reduction or cessation of training
+- Focus on sleep optimization
+- Nutritional assessment and intervention
+- Psychological support
+
+### Return to Training
+- Gradual reintroduction of training volume before intensity
+- Careful monitoring of symptoms and recovery markers
+- Modified training structure to address underlying causes
+- Longer recovery periods between training sessions
+
+### Long-term Considerations
+- Reassessment of training goals and approach
+- Implementation of comprehensive monitoring system
+- Regular scheduled recovery periods
+- Education on stress management and recovery strategies

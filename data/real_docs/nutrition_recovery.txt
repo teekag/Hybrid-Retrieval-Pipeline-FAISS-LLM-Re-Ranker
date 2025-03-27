@@ -1,0 +1,83 @@
+# Nutrition Strategies for Optimizing Recovery
+
+Proper nutrition is a critical component of the recovery process, providing the necessary building blocks for tissue repair, glycogen replenishment, and adaptation to training stimuli. Strategic nutritional interventions can significantly accelerate recovery and enhance subsequent performance.
+
+## Post-Exercise Recovery Windows
+
+### Immediate Recovery (0-2 hours post-exercise)
+This period is characterized by:
+- Increased blood flow to muscles
+- Enhanced insulin sensitivity
+- Elevated metabolic rate
+- Accelerated nutrient transport
+
+Nutritional priorities during this window:
+- Rapid carbohydrate replenishment
+- Initial protein intake for muscle protein synthesis
+- Rehydration with electrolytes
+
+### Extended Recovery (2-24 hours post-exercise)
+This period focuses on:
+- Continued glycogen synthesis
+- Sustained muscle protein synthesis
+- Inflammatory modulation
+- Immune system support
+
+## Macronutrient Considerations
+
+### Carbohydrates
+- **Timing**: Consume 1.0-1.2 g/kg body weight within 30 minutes post-exercise
+- **Type**: High glycemic index carbohydrates immediately post-exercise
+- **Total Need**: 5-10 g/kg/day depending on training volume and intensity
+- **Glycogen Resynthesis Rate**: Approximately 5-7% per hour with optimal intake
+
+### Protein
+- **Timing**: 20-40g high-quality protein within 30 minutes post-exercise
+- **Distribution**: 0.25-0.3 g/kg body weight every 3-4 hours
+- **Total Need**: 1.6-2.2 g/kg/day for strength and endurance athletes
+- **Leucine Content**: 2-3g leucine per serving to maximize muscle protein synthesis
+
+### Fats
+- **Timing**: Limit in immediate post-exercise meal (may slow gastric emptying)
+- **Type**: Emphasize omega-3 fatty acids for inflammatory modulation
+- **Total Need**: 0.8-1.2 g/kg/day, prioritizing unsaturated sources
+
+## Micronutrients and Recovery
+
+### Antioxidants
+- **Vitamin C**: 200-500mg daily, potentially higher during intense training
+- **Vitamin E**: 100-400 IU daily
+- **Caution**: Excessive antioxidant supplementation may blunt training adaptations
+
+### Minerals
+- **Magnesium**: 300-500mg daily for muscle relaxation and energy production
+- **Zinc**: 15-30mg daily for tissue repair and immune function
+- **Iron**: Regular monitoring for endurance athletes, particularly females
+
+## Hydration Strategies
+
+### Rehydration Calculation
+- Consume 150% of weight lost during exercise
+- Example: 1kg loss = 1.5L fluid requirement
+
+### Electrolyte Replacement
+- Sodium: 500-700mg per liter of fluid
+- Potassium: 200-400mg per liter of fluid
+- Magnesium: 80-120mg per liter of fluid
+
+### Monitoring Hydration Status
+- Urine color (pale straw indicates adequate hydration)
+- Morning body weight (fluctuations >2% suggest dehydration)
+- Urine specific gravity (<1.020 indicates euhydration)
+
+## Recovery-Enhancing Supplements
+
+### Well-Supported by Research
+- **Creatine Monohydrate**: 3-5g daily for enhanced phosphocreatine resynthesis
+- **Beta-Alanine**: 3-6g daily for improved intramuscular buffering
+- **Tart Cherry Juice**: 8-12oz twice daily for reduced inflammation and oxidative stress
+
+### Emerging Evidence
+- **Curcumin**: 1-1.5g daily for reduced inflammation and muscle damage
+- **Collagen Peptides**: 15-20g with vitamin C before connective tissue work
+- **Ashwagandha**: 300-600mg daily for stress reduction and recovery enhancement

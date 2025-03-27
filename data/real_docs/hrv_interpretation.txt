@@ -1,0 +1,86 @@
+# Interpreting HRV Data for Training Decisions
+
+Heart Rate Variability (HRV) has emerged as a valuable tool for guiding training decisions, providing insight into autonomic nervous system status and recovery readiness. Understanding how to interpret HRV data is essential for optimizing training adaptations.
+
+## Establishing Your Baseline
+
+Before making training decisions based on HRV, it's crucial to establish individual baseline values:
+
+- **Collection Period**: Minimum 2-3 weeks of daily measurements
+- **Measurement Timing**: First thing in the morning, after waking but before rising
+- **Position**: Consistent position (typically supine)
+- **Breathing**: Natural, uncontrolled breathing
+- **Calculation**: Rolling 7-day average and standard deviation
+
+## HRV Trends and Training Readiness
+
+### Interpreting Daily Values
+HRV should be interpreted relative to your personal baseline:
+
+- **Within Normal Range** (±0.5 SD from baseline): Normal recovery status, proceed with planned training
+- **Higher Than Normal** (>0.5 SD above baseline): Enhanced recovery status, potential for high-intensity training
+- **Lower Than Normal** (0.5-1.5 SD below baseline): Incomplete recovery, consider reducing training intensity
+- **Significantly Lower** (>1.5 SD below baseline): Substantial fatigue, consider active recovery or rest
+
+### Weekly Trends
+The direction of HRV change over 5-7 days provides additional context:
+
+- **Increasing Trend**: Improving recovery capacity and adaptation to training
+- **Stable Trend**: Maintaining homeostasis, training load likely appropriate
+- **Decreasing Trend**: Accumulating fatigue, may need to reduce training load
+- **Highly Variable**: Potential lifestyle stressors affecting recovery
+
+## Common HRV Patterns in Athletes
+
+### Functional Overreaching
+- Initial decrease in HRV
+- Stabilization at lower values
+- Supercompensation with HRV rising above baseline after recovery
+
+### Non-functional Overreaching
+- Progressive decrease in HRV
+- Increased day-to-day variability
+- Failure to return to baseline with standard recovery
+
+### Overtraining Syndrome
+- Chronically suppressed HRV
+- Paradoxical elevation (parasympathetic dominance in severe cases)
+- Blunted response to training stimuli
+
+## Practical Application Models
+
+### HRV-Guided Training
+Adjusting daily training based on HRV status:
+
+1. **Green Day** (HRV within/above normal range):
+   - Proceed with high-intensity or high-volume training
+   - Focus on development of specific fitness qualities
+
+2. **Yellow Day** (HRV slightly below normal):
+   - Moderate training intensity
+   - Technical work or moderate endurance training
+   - Reduced volume compared to planned session
+
+3. **Red Day** (HRV significantly below normal):
+   - Active recovery only
+   - Mobility work, technical skills at very low intensity
+   - Focus on sleep, nutrition, and stress management
+
+### Threshold-Based Model
+Using specific HRV thresholds to guide training:
+
+- **Above Upper Threshold**: High-intensity training permitted
+- **Between Thresholds**: Moderate training, technique focus
+- **Below Lower Threshold**: Recovery day
+
+## Contextual Factors in HRV Interpretation
+
+HRV should never be interpreted in isolation. Consider:
+
+- Recent training history (volume, intensity, novelty)
+- Sleep quality and quantity
+- Psychological stress
+- Nutritional status
+- Illness or infection
+- Environmental factors (heat, altitude, travel)
+- Menstrual cycle phase (for female athletes)
